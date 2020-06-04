@@ -40,6 +40,7 @@ I used a linear regression model, as it was the purpose of this exercise.
 ## Model Performance
 
 The RMSE of our model on the test set was apporximately 16. I also tried to evaluate using this type of model in some form of a trading
-system. The model does fairly well establishing turns or trend changes in the stock market. This can be seen graphically below.
+system even though it lags behind price during well defined trends either up or down. The model does fairly well establishing turns or
+trend changes in the stock market. This can be seen graphically below.
 
 ![](https://github.com/kenp8842/Linear-Regression-S-P-500/blob/master/sp_500_perform.png)
